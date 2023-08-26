@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Video-confrencing/static/css/main.15faeebf.css",
+    "main.js": "/Video-confrencing/static/js/main.a6ed7a30.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Video-confrencing/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Video-confrencing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Video-confrencing/index.html",
+    "main.15faeebf.css.map": "/Video-confrencing/static/css/main.15faeebf.css.map",
+    "main.a6ed7a30.js.map": "/Video-confrencing/static/js/main.a6ed7a30.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Video-confrencing/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15faeebf.css",
+    "static/js/main.a6ed7a30.js"
+  ]
+}
